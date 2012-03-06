@@ -1,0 +1,18 @@
+<package>
+  <description brief="floor_characterization">
+
+     floor_characterization
+
+  </description>
+  <author>stephanie</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/floor_characterization</url>
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+  <depend package="nite"/>
+
+</package>
+
+

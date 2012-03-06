@@ -1,0 +1,16 @@
+/home/stephanie/code/dev_stacks/kinect/floor_characterization/build/CMakeFiles/Averages.dir
+/home/stephanie/code/dev_stacks/kinect/floor_characterization/build/CMakeFiles/ROSBUILD_genmsg_cpp.dir
+/home/stephanie/code/dev_stacks/kinect/floor_characterization/build/CMakeFiles/ROSBUILD_genmsg_lisp.dir
+/home/stephanie/code/dev_stacks/kinect/floor_characterization/build/CMakeFiles/ROSBUILD_gensrv_cpp.dir
+/home/stephanie/code/dev_stacks/kinect/floor_characterization/build/CMakeFiles/ROSBUILD_gensrv_lisp.dir
+/home/stephanie/code/dev_stacks/kinect/floor_characterization/build/CMakeFiles/clean-test-results.dir
+/home/stephanie/code/dev_stacks/kinect/floor_characterization/build/CMakeFiles/rosbuild_precompile.dir
+/home/stephanie/code/dev_stacks/kinect/floor_characterization/build/CMakeFiles/rosbuild_premsgsrvgen.dir
+/home/stephanie/code/dev_stacks/kinect/floor_characterization/build/CMakeFiles/rospack_genmsg.dir
+/home/stephanie/code/dev_stacks/kinect/floor_characterization/build/CMakeFiles/rospack_genmsg_libexe.dir
+/home/stephanie/code/dev_stacks/kinect/floor_characterization/build/CMakeFiles/rospack_gensrv.dir
+/home/stephanie/code/dev_stacks/kinect/floor_characterization/build/CMakeFiles/test.dir
+/home/stephanie/code/dev_stacks/kinect/floor_characterization/build/CMakeFiles/test-future.dir
+/home/stephanie/code/dev_stacks/kinect/floor_characterization/build/CMakeFiles/test-results.dir
+/home/stephanie/code/dev_stacks/kinect/floor_characterization/build/CMakeFiles/test-results-run.dir
+/home/stephanie/code/dev_stacks/kinect/floor_characterization/build/CMakeFiles/tests.dir
